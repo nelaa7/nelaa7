@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nela</h2>
+<h2 align="left">Hi everyone👋! My name is Nela</h2>
 
 ###
 
@@ -76,7 +76,7 @@
 
 <br clear="both">
 
-<!-- <img src="https://raw.githubusercontent.com/nelaa7/nelaa7/output/snake.svg" alt="Snake animation" /> -->
+ <img src="https://raw.githubusercontent.com/nelaa7/nelaa7/output/snake.svg" alt="Snake animation" /> 
 
 
 
