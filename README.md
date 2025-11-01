@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- ✨My name is nela<br>- 📚 I'm currently internship at Punggawa Digital Kreatif</p>
+<p align="left">- ✨My name is nela<br></p>
 
 ###
 
